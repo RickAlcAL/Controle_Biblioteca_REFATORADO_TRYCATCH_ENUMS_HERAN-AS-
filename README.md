@@ -1,3 +1,6 @@
+
+
+* **Sistema foi refeito inteiramente apartir da I.A caso encontre error não foi feito pela minha pessoa**
 # Controle de Biblioteca - Refatorado 📚
 
 Este é um sistema de gerenciamento de biblioteca desenvolvido em programação orientada a objetos (POO), focado na aplicação de arquiteturas limpas, segurança de dados e boas práticas de codificação. 
